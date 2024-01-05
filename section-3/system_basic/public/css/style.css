@@ -1,0 +1,104 @@
+body{
+    font-size: 14px;
+    font-family: arial;
+    line-height: 23px;
+}
+#wrapper{
+    width: 960px;
+    margin: 0 auto;
+}
+#header,#footer{
+    background: #029ef3;
+    text-align: center;
+
+}
+#main-menu{
+    padding: -1px 300px;
+    display: inline-flex;
+    color: #fff;
+}
+h1 {
+    font-size: 14px ;
+}
+#content{
+    min-height: 600px;
+    padding: 20px 0;
+}
+#footer{
+    color: #fff;
+    text-align: center;
+}
+ul#main-menu{
+    text-align: center;
+}
+ul#main-menu li{
+    display: inline-block;
+
+}
+ul#main-menu li a{
+    padding: 8px 15px;
+    color: #fff;
+    text-decoration: none;
+}
+body{
+    font-size: 14px;
+    font-family: arial;
+    line-height: 23px;
+    background: white;
+}
+#wp-form-login{
+    width: 290px;
+    background: pink;
+    border-radius: 3px;
+    padding: 30px 20px 20px 20px;
+    margin: 150px auto;
+    text-align: center;
+}
+#form-login #username,#form-login #password{
+    display: block;
+    padding: 6px 10px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+#form-login #btn-login{
+    display: block;
+    width: 100%;
+    background: #029ef3;
+    border: none;
+    color: white;
+    padding: 10px 0;
+    margin: 15px 0 10px;
+    cursor: pointer;
+}
+#lost-pass{
+    color: #67a0b7;
+    text-decoration: underline;
+}
+h1.page-title{
+    font-size: 18px;
+    padding: 0 0 20px;
+}
+p.error {
+    color: red;
+    font-size: 13px;
+}
+.table {
+    margin: 0px auto;
+    width: 60%;
+    padding: 10px;
+}
+
+.form-group {
+    display: block;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    display: block;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,41 @@
+body{
+    background: url('../img/banner.jpg');
+    background-size: cover;
+    background-position-y: -80px;
+    font-size: 16px;
+}
+table.table.table-hover.text-center.table-bordered.border-primary.mt-3 {
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    width: 80%;
+    margin-left: 155px;
+}
+.border-primary {
+    border-color: #000000!important;
+    border: 5px solid;
+}
+.table-bordered>:not(caption)>*>* {
+    border-width: 0px 4px;
+}
+.mt-3 {
+    margin-top: 10rem!important;
+}
+.title{
+    text-align: center;
+    color: white;
+    font-family: ui-monospace;
+    font-size: 70px;
+}
+a.navbar-brand {
+    font-size: 36px;
+    font-family: ui-sans-serif;
+    text-shadow: 1px 3px #03A9F4;
+}
+div#navbarScroll {
+    font-family: fangsong;
+    margin-left: 150px;
+}
+button.btn.btn-success.me-1 {
+    margin: 5px;
+}
